@@ -18,3 +18,22 @@ All analysis in R, main packages: tidyverse, dplyr, tidyr, ggplot2, lubridate, f
 6. Creation of charts by teams and countries
 
 # Analysis results
+
+## Champions League Winners
+<img src="imagenes/fig.01.png" width="600"/> 
+
+## Streaks Evolution
+<img src="imagenes/fig.02.png" width="600"/>
+
+## Top 10 Streaks per Team and grouped by Country
+<img src="imagenes/fig.03.png" width="500"/> <img src="imagenes/fig.04.png" width="500"/>
+
+## Total games as King of Europe by Country and Map representation
+<img src="imagenes/fig.05.png" width="500"/> <img src="imagenes/fig.06.png" width="500"/>
+
+# Lessons learned and recommendations
+1. Creation of self-referenced column with streaks counter
+2. Map representation
+
+# Limitations and what can be improved
+The amount of data is optimal. There are no limitations other than trying to present as much data as possible with as few graphs as possible to condense the information.
